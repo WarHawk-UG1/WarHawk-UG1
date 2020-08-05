@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="dcoderzchecker.yz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Team-Dcoderz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/te;egram.svg" />][telegram]
+[<img align="left" alt="Team-Dcoderz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 ---
 
