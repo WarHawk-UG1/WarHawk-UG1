@@ -1,0 +1,19 @@
+### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+
+## I'm a Student!
+- 🔭 I’m currently working on a [Dcoderz][website]!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play guitar.
+
+### Connect with me:
+
+[<img align="left" alt="dcoderzchecker.yz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Team-Dcoderz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/te;egram.svg" />][telegram]
+
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WarHawk-Dcoderz&show_icons=true&hide_border=true" />
+
+[website]: https://dcoderzchecker.xyz
+[telegram]: https://t.me/WarHawk
