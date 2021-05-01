@@ -1,6 +1,7 @@
-### Hi there, I'm WarHawk - aka [UG1][telegram] 👋
+### Hi there, I'm [WarHawk][telegram] aka [Unknown_Guy1][telegram] 👋
 
 ## I'm a Student!
+
 - 🔭 I’m currently working on a [Dcoderz][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -15,7 +16,10 @@
 
 ---
 
-<img align="left" alt="WarHawk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WarHawk-Dcoderz&show_icons=true&hide_border=true&theme=radical" />
+<p align="center">
+<img align="center" alt="WarHawk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WarHawk-Dcoderz&show_icons=true&hide_border=true&theme=radical" />
+<br></br>
+<img align="center" alt="WarHawk's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarHawk-Dcoderz&show_icons=true&hide_border=true&theme=radical" />
 
 [website]: https://dcoderzchecker.xyz
 [telegram]: https://t.me/WarHawk
