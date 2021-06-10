@@ -1,25 +1,36 @@
-### Hi there, I'm [WarHawk][telegram] aka [Unknown_Guy1][telegram] 👋
 
-## I'm a Student!
+### Hi there, I'm [WarHawk][telegram] 👋
 
-- 🔭 I’m currently working on a [Dcoderz][website]!
+## I'm a Student & A part time Programmer!
+
+- 🔭 I’m currently working on a [Dcoderz][community]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar.
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
-[<img align="left" alt="dcoderzchecker.yz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Team-Dcoderz | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Team-Dcoderz | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" />][telegram]
 
 <br />
 
+
 ---
+## 🏆 Account Stats
 
-<p align="center">
-<img align="center" alt="WarHawk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WarHawk-Dcoderz&show_icons=true&hide_border=true&theme=radical" />
-<br></br>
-<img align="center" alt="WarHawk's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarHawk-Dcoderz&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="WarHawk's Github Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=warhawk-dcoderz&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />
+<img align="right" alt="WarHawk's Github Stats" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warhawk-dcoderz&layout=compact&theme=react&hide_border=true" />
 
-[website]: https://dcoderzchecker.xyz
+
+## 🏆 Github Stats
+
+<img align="center" alt="WarHawk's Github Stats" width="550" src="https://github-profile-trophy.vercel.app/?username=warhawk-dcoderz&theme=dracula&no-frame=true" />
+
+
+## 🏆 Profile Stats
+
+<img align="center" alt="WarHawk's Github Stats" height="25" title="Counter" src="https://komarev.com/ghpvc/?username=warhawk-dcoderz&color=blueviolet&style=flat-square" />
+
+
+[github]: https://github.com/WarHawk-Dcoderz
+[community]: https://t.me/TeamDcoderz
 [telegram]: https://t.me/WarHawk
