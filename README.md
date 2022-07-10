@@ -17,20 +17,20 @@
 ---
 ## 🏆 Account Stats
 
-<img align="center" alt="WarHawk's Github Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=warhawk-dcoderz&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />
-<img align="center" alt="WarHawk's Github Stats" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warhawk-dcoderz&layout=compact&theme=react&hide_border=true" />
+<img align="center" alt="WarHawk's Github Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=warhawk-ug1&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />
+<img align="center" alt="WarHawk's Github Stats" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warhawk-ug1&layout=compact&theme=react&hide_border=true" />
 
 
 ## 🏆 Github Stats
 
-<img align="center" alt="WarHawk's Github Stats" width="550" src="https://github-profile-trophy.vercel.app/?username=warhawk-dcoderz&theme=dracula&no-frame=true" />
+<img align="center" alt="WarHawk's Github Stats" width="550" src="https://github-profile-trophy.vercel.app/?username=warhawk-ug1&theme=dracula&no-frame=true" />
 
 
 ## 🏆 Profile Stats
 
-<img align="center" alt="WarHawk's Github Stats" height="25" title="Counter" src="https://komarev.com/ghpvc/?username=warhawk-dcoderz&color=blueviolet&style=flat-square" />
+<img align="center" alt="WarHawk's Github Stats" height="25" title="Counter" src="https://komarev.com/ghpvc/?username=warhawk-ug1&color=blueviolet&style=flat-square" />
 
 
-[github]: https://github.com/WarHawk-Dcoderz
+[github]: https://github.com/WarHawk-ug1
 [community]: https://t.me/TeamDcoderz
 [telegram]: https://t.me/WarHawk
