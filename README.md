@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a [Dcoderz][community]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
